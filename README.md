@@ -84,6 +84,19 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+## Creating a table
+
+Grading Policy
+--------------
+| Concept                      | Grade |
+|------------------------------|-------|
+| Architecture Document        | 20%   |
+| Multithreaded implementation | 30%   |
+| Build Automation             | 20%   |
+| Coding best practices        | 10%   |
+| Presentation                 | 20%   |
+| TOTAL                        | 100%  |
+
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
